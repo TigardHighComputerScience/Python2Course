@@ -1,3 +1,8 @@
 addReviewers: true
+
+addAssignees: false
+
 reviewers:
   - BrandonPacewic
+
+numberOfReviewers: 1
